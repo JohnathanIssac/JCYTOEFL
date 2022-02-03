@@ -51,7 +51,9 @@ a{
 #two{
     text-align: center;
 }
-#calander.tr.td{
-    margin-top: 2%;
+#calander.table.th.tr.td{
     text-align: center;
+}
+#calander{
+    margin-top: 2%;   
 }
