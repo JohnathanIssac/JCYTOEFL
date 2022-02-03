@@ -51,7 +51,7 @@ a{
 #two{
     text-align: center;
 }
-#calander.table.th.tr.td{
+#calander,table,th,tr,td{
     text-align: center;
 }
 #calander{
